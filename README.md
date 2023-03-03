@@ -52,7 +52,7 @@
 
 - 📖 &nbsp; [Pick book](https://github.com/PeterEmil2/ITI-Project)
 
-- 📖🔐 &nbsp; [Pick book](Cyber Security Project)(https://github.com/PeterEmil2/CyberSecurityProject)
+- 📖🔐 &nbsp; [Pick book(Cyber Security Project)](https://github.com/PeterEmil2/CyberSecurityProject)
 
 - 📱 &nbsp; [E-Shop](https://github.com/PeterEmil2/E-Shop)
 
