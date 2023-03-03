@@ -22,15 +22,15 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Flask | Boot strap 
 
-- 🛢 &nbsp; Oracle Database | Firebase
+- 🛢 &nbsp; Oracle Database | Firebase | SQLite | MySQL
 
 - 🖥 &nbsp; Adobe Photoshop 
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Objective</h3>
 
-- 🔧 &nbsp; Become a Data Analyst Path -LinkedIn Learning-
+- 🔧 &nbsp; I am eager to expand my skills and get experience through internship at leading organization to explore career options-
 
 
 
@@ -48,6 +48,13 @@
 
 - 🔐 &nbsp; [Security Package](https://github.com/PeterEmil2/Security-Package)
 
+- 💻 &nbsp; [Parallel Background Subtraction](https://github.com/PeterEmil2/HPC_ProjectTemplate)
+
+- 📖 &nbsp; [Pick book](https://github.com/PeterEmil2/ITI-Project)
+
+- 📖🔐 &nbsp; [Pick book](Cyber Security Project)(https://github.com/PeterEmil2/CyberSecurityProject)
+
+- 📱 &nbsp; [E-Shop](https://github.com/PeterEmil2/E-Shop)
 
 <hr>
 
