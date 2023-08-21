@@ -7,30 +7,39 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Studying Computer Science at Ain Shams University.
-
-- 🌱 &nbsp; Learning about Data Science.
+- 🏫 BSc. in Computer Science
+      Ain Shams University, Faculty of Computer and Information Sciences
+- 📅 9/2019 – 7/2023
+- 📈 GPA: 3.17
+- 🎓 Graduation Project: HR Assistant Project (Grade: A+)
 
 
 <h3>🛠 Tech Stack</h3>
 
+- 👨‍💻 Programming Languages: Java | Python | C | C++ | C# | R.
 
+- 🌐 Web Development: HTML | HTML5 | Bootstrap | CSS | JavaScript.
 
-- 💻 &nbsp; Python | R | Java | C++ | C | C# | SQL 
+- 🛢 Web Frameworks: Flask | Django | EF Core.
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Flask | Boot strap 
+- 📚 Databases: SQLite | MySQL | Oracle | SQL Server | Firebase.
 
-- 🛢 &nbsp; Oracle Database | Firebase | SQLite | MySQL
+- 🧠 System Analysis and Design.
 
-- 🖥 &nbsp; Adobe Photoshop 
+- 🌲 OOP | Data Structures | Algorithms.
 
+- 🏗️ Software Design Patterns.
 
+- 🕸️ LINQ (Language Integrated Query).
+
+- 🌐 .NET Core (MVC).
+ 
 
 <h3>🛠 Objective</h3>
 
-- 🔧 &nbsp; I am eager to expand my skills and get experience through internship at leading organization to explore career options-
+- 🔧 &nbsp; • To secure an internship position in web development where I can utilize my
+skills and gain valuable hands-on experience in backend development, while
+contributing to the success of the organization.
 
 
 
